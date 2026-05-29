@@ -826,11 +826,11 @@ nav {
 
 .section-7 {
     width: 100%;
-   min-height: 160vh;
+    min-height: 160vh;
     overflow-x: auto;
     display: flex;
     flex-wrap: nowrap;
-   
+
 }
 
 
@@ -971,11 +971,26 @@ nav {
     font-family: 'midnight sans rd';
     font-size: clamp(2.4rem, 3vw, 2rem);
     font-weight: 500;
-    background-color: #E8AA63;
     padding: 0 .3rem;
     border: 1px solid black;
     border-radius: 0.7rem;
     transform: rotate(-2deg);
+}
+
+.bottom-content-title-one {
+    background-color: #E8AA63;
+}
+
+.bottom-content-title-two {
+    background-color: #87C00D;
+}
+
+.bottom-content-title-three {
+    background-color: #FFB500;
+}
+
+.bottom-content-title-four {
+    background-color: #E8AA63;
 }
 
 .bottom-content-wrapper h2 {
