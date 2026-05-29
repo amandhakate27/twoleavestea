@@ -826,7 +826,7 @@ nav {
 
 .section-7 {
     width: 100%;
-   min-height: 190vh;
+   min-height: 160vh;
     overflow-x: auto;
     display: flex;
     flex-wrap: nowrap;
